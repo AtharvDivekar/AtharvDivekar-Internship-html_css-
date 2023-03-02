@@ -36,7 +36,7 @@ orm input{
     background-color: aqua;
 }
 form input:focus{
-    background-color: rgb(212, 79, 31);
+     background-color: rgb(232, 227, 226);
 }
 
 #bu{
