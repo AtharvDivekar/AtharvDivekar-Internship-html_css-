@@ -1,0 +1,60 @@
+    
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    text-decoration: none;
+    background-color: rgb(221, 66, 10);
+    color: black;
+    text-align: center;
+    padding: 16px 14px;
+
+}
+.About Us .Contact Us .Home{
+    background-color: rgba(221, 66, 10);
+}
+
+ 
+.header{
+    background-color: rgb(221, 66, 10);
+}
+li a:hover{
+    background-color: yellow;
+}
+
+orm input{
+    background-color: aqua;
+}
+form input:focus{
+    background-color: rgb(212, 79, 31);
+}
+
+#bu{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+#bu:focus{
+    background-color: rgb(222, 24, 24);
+}
+form{
+    background-color: rgb(15, 35, 147);
+    color: white;
+    width:300px;
+    margin-left: 565px;
+    margin-right: 600px;
+    padding-left: 56px;
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
